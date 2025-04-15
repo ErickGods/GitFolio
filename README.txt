@@ -1,3 +1,20 @@
+# Hello! Welcome to GitFolio 😄
+## I'm Erick Dias, here you will find some data analytics, data science and simple apps.
+Check it out:
+* __BlockBuster Data Managemet__ 🎞️🖥️ 
+
+
+
+Main Projects:  
+👉[GitFolio](https://erickgods.github.io/GitFolio/)
+👉[GitFlix](https://erickgods.github.io/Flixlix/)
+Meu contato:  
+🔵[LinkedIn](https://www.linkedin.com/in/erickpdias/)
+
+
+__Thanks 😊__
+
+/***** Credits ******/
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -31,3 +48,4 @@ Credits:
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
  
+/***** Credits ******/
